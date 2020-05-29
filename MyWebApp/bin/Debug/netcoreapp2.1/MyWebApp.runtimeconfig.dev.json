@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\HaMza\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HaMza\\.nuget\\packages"
+    ]
+  }
+}
